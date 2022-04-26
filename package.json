@@ -1,0 +1,26 @@
+{
+  "name": "@penseapp/youtube-tutorials",
+  "version": "1.0.0",
+  "description": "A collection of projects from penseapp's youtube channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaomantovani/youtube-tutorials.git"
+  },
+  "keywords": [
+    "penseapp",
+    "youtube",
+    "tutorials",
+    "react",
+    "flutter"
+  ],
+  "author": "penseapp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaomantovani/youtube-tutorials/issues"
+  },
+  "homepage": "https://github.com/joaomantovani/youtube-tutorials#readme"
+}
